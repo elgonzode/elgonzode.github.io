@@ -2,4 +2,4 @@
 
 I reconfigured my setup
 
-![Battleship.jpeg](/Battleship.jpeg)
+![Battleship.jpeg](https://github.com/elgonzode/elgonzode.github.io/blob/main/Battleship.jpeg?raw=true)
