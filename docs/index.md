@@ -1,11 +1,7 @@
-# Obsidian Notes
+# eLGonZo Notes
 
-Publish your public notes with MkDocs
+Notes from my world
 
-## Hello World!
+## This is just technical Encounter
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Maybe, this can turn into a blog, who knows which social platform goes down next...
