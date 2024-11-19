@@ -1,4 +1,4 @@
-# eLGonZo Notes
+# Home
 
 Notes from my world
 
