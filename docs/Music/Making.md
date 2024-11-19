@@ -2,4 +2,4 @@
 
 I reconfigured my setup
 
-![Battleship.jpeg](Battleship.jpeg)
+![Battleship.jpeg](/Battleship.jpeg)
